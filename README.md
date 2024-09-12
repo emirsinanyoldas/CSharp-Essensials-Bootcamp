@@ -1,2 +1,2 @@
-# C-Essensials-Bootcamp
+# C# Essensials-Bootcamp
 C # Bootcamp by techcareer.net
