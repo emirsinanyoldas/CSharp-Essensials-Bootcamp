@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Calculator
 {
+
     public class Calculator
     {
         public double number1 { get; set; }
@@ -75,7 +76,7 @@ namespace Calculator
                 Console.Write("Enter the operation (+, -, *, /, %, !): ");
                 double operation = Convert.ToDouble(Console.ReadLine());
 
-                Calculator calculator = new Calculator(number1, number2, operation);
+                Calculator calculator = new Calculator(number1, number2, operation1);
                 double result = calculator.Calculate();
 
                 Console.WriteLine("Result: ", result);

@@ -1,0 +1,7 @@
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\CSharp-Essensials-Bootcamp\Calculator\Calculator\obj\Debug\Calculator.pdb
