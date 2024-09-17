@@ -30,11 +30,56 @@ namespace Calculator
                 { "!",()=>Factorial((int)number1)}
             };
         }
+
+        private double Factorial(int number)
+        {
+            if (number < 0)
+            {
+                throw new InvalidOperationException("Factorial can not be negative.");
+            }
+
+            double result = 1;
+            for (int i = 2; i <= number; i++)
+            {
+                result *= i;
+            }
+            return result;
+        }
+
+        public double Calculate()
+        {
+            if (operations.ContainsKey(Operation))
+            {
+                return operations[Operation]();
+            }
+            else
+            {
+                throw new InvalidOperationException("Invalid operation.");
+            }
+        }
     }
 
 
     internal class Program
     {
+        static void Main(string[] args)
+        {
+            try
+            {
+                Console.Write("Enter the first number: ");
+                double number1 = Convert.ToDouble(Console.ReadLine());
+                
+                Console.Write("Enter the second number: ");
+                double number2 = Convert.ToDouble(Console.ReadLine());
 
+                Console.Write("Enter the operation (+, -, *, /, %, !): ");
+                double operation = Convert.ToDouble(Console.ReadLine());
+
+                Calculator calculator = new Calculator(number1, number2, operation);
+                double result = calculator.Calculate();
+
+                Console.WriteLine("Result: ", result);
+            }
+        }
     }
 }
