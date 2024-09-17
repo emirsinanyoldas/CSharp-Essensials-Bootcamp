@@ -1,0 +1,7 @@
+D:\C# Essentials\Day-1\Day-1\bin\Debug\Day-1.exe.config
+D:\C# Essentials\Day-1\Day-1\bin\Debug\Day-1.exe
+D:\C# Essentials\Day-1\Day-1\bin\Debug\Day-1.pdb
+D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.csproj.AssemblyReference.cache
+D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
+D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.exe
+D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.pdb
