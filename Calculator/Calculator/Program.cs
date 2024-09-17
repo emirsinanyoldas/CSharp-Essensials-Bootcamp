@@ -80,6 +80,14 @@ namespace Calculator
 
                 Console.WriteLine("Result: ", result);
             }
+            // I take some help, for these
+            catch(Expection ex)
+            {
+                Console.WriteLine("Error: " + ex.Message);
+            }
+
+            Console.WriteLine("Press any key to exit...");
+            Console.ReadLine();
         }
     }
 }
