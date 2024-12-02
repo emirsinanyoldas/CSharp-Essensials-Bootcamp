@@ -5,3 +5,17 @@ D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.csproj.AssemblyReference.cache
 D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
 D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.exe
 D:\C# Essentials\Day-1\Day-1\obj\Debug\Day-1.pdb
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\bin\Debug\Day-1.exe.config
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\bin\Debug\Day-1.exe
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\bin\Debug\Day-1.pdb
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.csproj.AssemblyReference.cache
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.exe
+D:\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.pdb
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\bin\Debug\Day-1.exe.config
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\bin\Debug\Day-1.exe
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\bin\Debug\Day-1.pdb
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.csproj.AssemblyReference.cache
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.csproj.CoreCompileInputs.cache
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.exe
+D:\Yazılım\CSharp-Essensials-Bootcamp\Day-1\Day-1\obj\Debug\Day-1.pdb
